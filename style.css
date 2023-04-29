@@ -1,0 +1,69 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+h1 {
+    text-transform: capitalize;
+    text-decoration: line-through;
+    text-align: center;
+    color: rgb(121, 121, 195);
+    background-color: black;
+    border-style: groove;
+    border-left-color: brown;
+    border-right-color: chocolate;
+    border-bottom-color: crimson;
+    border-top-color: deeppink;
+    font-weight: 900;
+    border-width: 5px;
+    border-radius: 100%;
+    padding: 22px 44px;
+    margin: 2% 30%;
+}
+
+h3 {
+    text-transform: capitalize;
+    text-align: center;
+    color: orange;
+    background-color: black;
+    border-style: double;
+    border-top-color: hotpink;
+    border-right-color: darksalmon;
+    border-bottom-color: gold;
+    border-left-color: darkslateblue;
+    font-weight: 800;
+    border-width: 5px;
+    border-radius: 100%;
+    padding: 12px 12px;
+    margin: 2% 40%;
+}
+
+ul {
+    text-transform: capitalize;
+    text-decoration: underline;
+    text-align: center;
+    color: white;
+    background-color: black;
+    font-size: 12px;
+    font-weight: 700;
+    border-style: double;
+    border-top-color: crimson;
+    border-right-color: darkblue;
+    border-bottom-color: darkgreen;
+    border-left-color: darkslategrey;
+    border-radius: 100%;
+    border-width: 5px;
+    padding: 33px 55px;
+    margin: 2% 40%;
+}
+
+li {
+    color: darksalmon;
+    list-style-type:decimal-leading-zero;
+    padding: 12px 0px;
+    list-style-position: inside;
+}
